@@ -1,8 +1,8 @@
 # Hi there, I'm Rabab!
 
-🎓 **Double diplômée Franco-Canadienne** (UQAC & BUT Informatique)
-💻 **Développeuse Back-End / Fullstack & Passionnée de QA / Qualité Logicielle**
-📍 Basée en France (Île-de-France) | Ouverte aux opportunités & mobilité internationale
+ **Double diplômée Franco-Canadienne** (UQAC & BUT Informatique)
+ **Développeuse Back-End / Fullstack & Passionnée de QA / Qualité Logicielle**
+ Basée en France (Île-de-France) | Ouverte aux opportunités & mobilité internationale
 
 ---
 
@@ -46,6 +46,6 @@
 
 ---
 
-### 📬 Me Contacter
+### Me Contacter
 - **LinkedIn :** [Rabab BOULKRIAT](https://www.linkedin.com/in/rababboulkriat/)
 - **Email :** Rababboulkriat@outlook.fr
