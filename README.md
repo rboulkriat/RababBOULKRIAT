@@ -7,10 +7,10 @@
 ---
 
 ### À propos de moi
-- 🧪 **Automatisation & QA :** Création de suites de tests UI & API (Playwright, PyTest, Postman, CI/CD).
-- 🌐 **Développement Web & Mobile :** Conception d'applications Fullstack (Python, JavaScript, Angular, Flutter, PHP).
-- 🎮 **Développement de Jeux :** Expérience en conception de mécaniques immersives et tests sous Godot Engine.
-- ⚡ **Méthodologie :** Adepte du travail en équipe Agile / Scrum et du versioning propre via Git.
+-  **Automatisation & QA :** Création de suites de tests UI & API (Playwright, PyTest, Postman, CI/CD).
+-  **Développement Web & Mobile :** Conception d'applications Fullstack (Python, JavaScript, Angular, Flutter, PHP).
+-  **Développement de Jeux :** Expérience en conception de mécaniques immersives et tests sous Godot Engine.
+-  **Méthodologie :** Adepte du travail en équipe Agile / Scrum et du versioning propre via Git.
 
 ---
 
