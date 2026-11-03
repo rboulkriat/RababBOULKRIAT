@@ -41,8 +41,8 @@
 ### Projets Mis en Avant
 
 *  **[QA Automated Tests Suite](./)** : Automation E2E (SauceDemo) et API (ReqRes) avec Python, Playwright, PyTest et intégration CI/CD via GitHub Actions.
-*  **[Site de Gestion de Tournois de Tennis](./)** : Application Web Fullstack (Python, Angular, MongoDB) intégrant un algorithme d'appariement automatisé.
-*  **[Interstellar Havoc](./)** : Application Web dynamique développée en PHP pur suivant l'architecture MVC.
+*  **[Site de Gestion de Tournois de Tennis](https://github.com/elsouche123/Les-maitres-de-la-raquette)** : Application Web Fullstack (Python, Angular, MongoDB) intégrant un algorithme d'appariement automatisé.
+*  **[Interstellar Havoc](https://github.com/rboulkriat/InterstellarHavocWeb)** : Application Web dynamique développée en PHP pur suivant l'architecture MVC.
 
 ---
 
